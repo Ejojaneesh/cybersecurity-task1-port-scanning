@@ -1,0 +1,10 @@
+# Nmap 7.99 scan initiated
+Nmap scan report for 192.168.1.1
+Host is up (0.031s latency).
+
+Not shown: 999 closed tcp ports
+
+PORT     STATE SERVICE
+53/tcp   open  domain
+
+# Nmap done: 1 IP address (1 host up) scanned in 1.01 seconds
