@@ -59,3 +59,16 @@ nmap -sT 192.168.1.1 -oN scan_result.txt
 ## Conclusion
 
 The scan successfully identified active hosts and open ports using Nmap.
+## Screenshots
+
+### Network Information
+![Network Information](network-info.png)
+
+### Host Discovery
+![Host Discovery](host-discovery.png)
+
+### Port Scan
+![Port Scan](port-scan.png)
+
+### Saved Scan Result
+![Saved Scan Result](saved-result.png)
